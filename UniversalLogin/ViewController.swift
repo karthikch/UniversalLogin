@@ -17,6 +17,7 @@ public class ViewController: UIViewController {
     {
         print("Test commit to dev branch")
         print("Master branch commit 12")
+        print("Master branch commit 1+")
 
         super.viewDidLoad()
         // Do any additional setup after loading the view.
