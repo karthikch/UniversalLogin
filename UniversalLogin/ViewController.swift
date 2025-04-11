@@ -16,7 +16,7 @@ public class ViewController: UIViewController {
     public override func viewDidLoad()
     {
         print("Test commit to dev branch")
-        print("Master branch commit ")
+        print("Master branch commit 12")
 
         super.viewDidLoad()
         // Do any additional setup after loading the view.
